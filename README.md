@@ -112,6 +112,28 @@ KurBoot her açıldığında GitHub'daki en yeni sürümü sessizce denetler (in
 
 ---
 
+## 🩹 Setup sonrası hata verirse (EXE'yi elle kopyalama)
+
+`KurBoot_Setup.exe` ile kurulumdan sonra program **açılmıyor ya da hata veriyorsa**, kurulumu atlayıp `KurBoot.exe` dosyasını kurulum klasörüne kendin kopyalayabilirsin:
+
+1. [Releases](https://github.com/aykutsen1987/kurboot/releases/latest) sayfasından **`KurBoot.exe`** dosyasını indir.
+2. KurBoot açıksa kapat (sağ alttaki görev çubuğuna da bak).
+3. Dosya Gezgini'nde kurulum klasörünü aç. Varsayılan konum:
+   ```text
+   C:\Program Files\KurBoot
+   ```
+   *(Kurulumda başka klasör seçtiysen orayı aç. Başlat menüsündeki **KurBoot** kısayoluna sağ tıklayıp **Dosya konumunu aç** diyerek de bulabilirsin.)*
+4. İndirdiğin `KurBoot.exe` dosyasını bu klasöre **kopyala** ve aynı adlı dosya varsa **Hedefteki dosyanın üzerine yaz** de. *(Yönetici izni sorarsa **Devam** de.)*
+5. Kısayoldan ya da doğrudan `KurBoot.exe`'ye çift tıklayarak aç.
+
+> [!TIP]
+> Kurulum klasörüne kopyalamak istemezsen `KurBoot.exe` zaten **taşınabilirdir**: masaüstü gibi herhangi bir klasörden çift tıklayıp çalıştırabilirsin.
+
+> [!NOTE]
+> Yine açılmıyorsa SmartScreen/antivirüs dosyayı engellemiş olabilir. `KurBoot.exe`'ye sağ tıkla → **Özellikler** → en altta **Engellemeyi kaldır** kutusunu işaretle → **Tamam**. Sonra tekrar dene.
+
+---
+
 ## 🧰 Sorun giderme
 
 | Sorun | Çözüm |
