@@ -379,3 +379,7 @@ With `.github/workflows/release.yml`, `git tag v0.4.1 && git push --tags` makes 
 Developer: [@aykutsen1987](https://github.com/aykutsen1987)
 
 </div>
+## 👤 Geliştirici
+
+**@aykutsen1987**
+[YouTube](https://www.youtube.com/@aykutsen1987) · [Play Store uygulamaları](https://play.google.com/store/search?q=pub%3A%20%40aykutsen1987&c=apps)
